@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(250, 205, 246);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+a{
+    color: rgb(65, 65, 65);
+}
+
+.rightmenu{
+    top: 20px;
+    right: 5px;
+    width: 100px;
+    bottom: 39px;
+    padding-left: 5px;
+}
+
+li {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: normal;
+}
+a:visited{
+    color: blue;
+}
